@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Paged Gallery 0.5\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Andrey K. <mywebcat@yandex.ru>\n"
+"Language-Team:  <mywebcat@yandex.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: aeyc-paged-gallery.php:194
+msgid "Paged Gallery Settings"
+msgstr "Настройки Paged Gallery"
+
+msgid "If you select <code>[gallery]</code> (default) then the plugin replaces standard wordpress gallery,<br />else you may use both [gallery] and [pgallery] in your blog (and, for instance, to apply another plugin to wordpress gallery shortcode)."
+msgstr "Если выберете <code>[gallery]</code> (по умолчанию), тогда плагин будет работать, заменяя стандартные галереи wordpress, иначе вы можете использовать в своем блоге одновременно и [gallery] и [pgallery] (например, тогда можно будет применить к стандартным галереям другой плагин)."
+
+msgid "Show edit mediafile link?"
+msgstr "Показывать ссылку на редактирование медафайла?"
+
+msgid "For those who has permission, of course"
+msgstr "Разумеется, только тем, кому разрешено редактировать"
+
+msgid "How many columns?"
+msgstr "Сколько столбцов?"
+
+msgid "How many images per page?"
+msgstr "По сколько картинок на странице?"
+
+msgid "Not bad if it is multiple of the above number ;)"
+msgstr "Неплохо, если оно будет кратно числу столбцов ;)"
+
+msgid "Preview size"
+msgstr "Размер превьюшек"
+
+msgid "Link to"
+msgstr "Ссылка на"
+
+msgid "Save settings"
+msgstr "Сохранить настройки"
+
+msgid "Reset defaults"
+msgstr "Сбросить на исходные"
+
